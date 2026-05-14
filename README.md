@@ -3,7 +3,9 @@
 
 ###
 
-<h5 align="left">I am a 16-year-old born on November 9, 2010, from a poor family in Izmir, Türkiye. During my middle school years (at the age of 14), I entered the real world of work, and after graduating from middle school, I dropped out of school and worked in many different jobs. Now I am here, and I want to become a successful entrepreneur</h5>
+<h5 align="left">I am a 16-year-old born on November 9, 2010, from a poor family in Izmir, Türkiye. During my middle school years (at the age of 14), I entered the real world of work, and after graduating from middle school, I dropped out of school and worked in many different jobs. Now I am here, and I want to become a successful entrepreneur, My goal is to start multiple ventures, gain new experiences, eventually secure a good position in a company, and sell the brands/ventures I've created. Also, I'm single and don't have a girlfriend :)
+
+</h5>
 
 ###
 
