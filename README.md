@@ -8,10 +8,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+  <a href="mailto:canotuber.contact@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://youtube.com/@can0tuber?si=GB-KIGVBQZd-lCjW">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
+  <a href="https://t.me/can0tuber">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -24,14 +30,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  
   <br><br>
-  <img src="https://img.shields.io/badge/GDevelop-5841D8?logo=gdevelop&logoColor=white&style=for-the-badge" height="40" alt="gdevelop logo"  />
+
+  <img src="https://img.shields.io/badge/GDevelop-5841D8?style=for-the-badge" height="40" alt="gdevelop"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ibis_Paint-42A5F5?logo=&logoColor=white&style=for-the-badge" height="40" alt="ibis paint logo"  />
+  <img src="https://img.shields.io/badge/Ibis_Paint_X-42A5F5?style=for-the-badge" height="40" alt="ibis paint"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Spack_Editor-2C2C2C?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="40" alt="spack editor logo"  />
+  <img src="https://img.shields.io/badge/Spack_Editor-2C2C2C?style=for-the-badge" height="40" alt="spack editor"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Sketchware_Pro-2196F3?logo=android&logoColor=white&style=for-the-badge" height="40" alt="sketchware logo"  />
+  <img src="https://img.shields.io/badge/Sketchware_Pro-2196F3?style=for-the-badge" height="40" alt="sketchware pro"  />
 </div>
 
 ###
