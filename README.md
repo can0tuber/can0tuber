@@ -10,14 +10,14 @@
 ###
 
 <div align="left">
-  <!-- Tıklanabilir İletişim Butonları -->
+  
   <a href="mailto:canotuber.contact@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://youtube.com/@can0tuber?si=GB-KIGVBQZd-lCjW">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
-  <!-- Discord Linkini Buraya Ekle (Aşağıdaki 'DISCORD_ID' kısmını kendi ID'nle değiştirebilirsin) -->
+  
   <a href="https://discord.com/users/1372202962142629969">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <!-- Logolu Yazılım Dilleri -->
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
@@ -40,7 +40,7 @@
   
   <br><br>
 
-  <!-- Logosuz Tasarım/Geliştirme Uygulamaları -->
+  
   <img src="https://img.shields.io/badge/GDevelop-5841D8?style=for-the-badge" height="40" alt="gdevelop"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ibis_Paint-42A5F5?style=for-the-badge" height="40" alt="ibis paint"  />
