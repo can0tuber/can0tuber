@@ -41,9 +41,9 @@
   <!-- Logosuz Tasarım/Geliştirme Uygulamaları -->
   <img src="https://img.shields.io/badge/GDevelop-5841D8?style=for-the-badge" height="40" alt="gdevelop"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ibis_Paint_X-42A5F5?style=for-the-badge" height="40" alt="ibis paint"  />
+  <img src="https://img.shields.io/badge/Ibis_Paint-42A5F5?style=for-the-badge" height="40" alt="ibis paint"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Spack_Editor-2C2C2C?style=for-the-badge" height="40" alt="spack editor"  />
+  <img src="https://img.shields.io/badge/Spck_Editor-2C2C2C?style=for-the-badge" height="40" alt="spck editor"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Sketchware_Pro-2196F3?style=for-the-badge" height="40" alt="sketchware pro"  />
 </div>
