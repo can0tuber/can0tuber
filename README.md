@@ -1,5 +1,5 @@
-![Can Header](https://raw.githubusercontent.com/can0tuber/can0tuber/main/header.svg)
-<img align="right" height="200" src="https://i.hizliresim.com/o2tdoym.gif"  />
+![header.svg](https://raw.githubusercontent.com/can0tuber/can0tuber/main/header.svg)
+<img align="right" height="200" src="https://i.hizliresim.com/o2tdoym.gif"/>
 
 ###
 
