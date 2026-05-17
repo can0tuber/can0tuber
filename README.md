@@ -14,7 +14,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Single-2a2a2a?style=flat-square&logo=label&logoColor=white" />
-  <img src="https://img.shields.io/badge/Social-No_Friends-2a2a2a?style=flat-square&logo=label&logoColor=white" />
+  <img src="https://img.shields.io/badge/Social-1_Friends-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Preference-No_Social_Media-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Mood-Depressed-2a2a2a?style=flat-square&logo=label&logoColor=white" />
 </p>
