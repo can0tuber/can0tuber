@@ -13,7 +13,7 @@
 <p>I am a 16-year-old born on November 9, 2010, in Izmir, into a poor family. I entered the real business world during my middle school years (at age 14), and after graduating from middle school, I dropped out and worked many different jobs. Now I am here, and I want to become a successful entrepreneur. I aim to create games, publish applications and projects, launch multiple ventures, gain new experiences, eventually secure a good position in a company, and sell the brands/ventures I create.</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Single-2a2a2a?style=flat-square&logo=label&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Single_LFGF-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Social-1_Friends-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Preference-No_Social_Media-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Mood-Depressed-2a2a2a?style=flat-square&logo=label&logoColor=white" />
