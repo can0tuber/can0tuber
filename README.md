@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/Mood-Depressed-2a2a2a?style=flat-square&logo=label&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Loves-Music-2a2a2a?style=flat-square&logo=label&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loves-Listening_To_Music-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Hobby-Watches_Anime,_Kdrama,_Film-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Hobby-Plays_Games:_Minecraft,_Terraria,_Arena_Breakout,_etc.-2a2a2a?style=flat-square&logo=label&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hobby-Books_&_Library-2a2a2a?style=flat-square&logo=label&logoColor=white" />
+  <img src="https://img.shields.io/badge/Routine-At_The_Library_On_Weekdays-2a2a2a?style=flat-square&logo=label&logoColor=white" />
 </p>
 
 <blockquote>
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Cigarettes-f4f4f4?style=flat-square&logoColor=black&labelColor=f4f4f4" />
   <img src="https://img.shields.io/badge/Beer-F28E1C?style=flat-square" />
   <img src="https://img.shields.io/badge/Sleeping_Pills-007EC6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee-6F4E37?style=flat-square&logo=coffeescript&logoColor=white" />
 </p>
 
 <p><strong>Languages:</strong><br>
