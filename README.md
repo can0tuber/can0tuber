@@ -21,7 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/Loves-Listening_To_Music-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Hobby-Watches_Anime,_Kdrama,_Film-2a2a2a?style=flat-square&logo=label&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hobby-Plays_Games:_Minecraft,_Terraria,_Arena_Breakout,_etc.-2a2a2a?style=flat-square&logo=label&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hobby-Plays_Games:_Minecraft,_Terraria,_etc.-2a2a2a?style=flat-square&logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/Routine-At_The_Library_On_Weekdays-2a2a2a?style=flat-square&logo=label&logoColor=white" />
 </p>
 
